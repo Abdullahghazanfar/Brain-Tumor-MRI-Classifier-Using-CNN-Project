@@ -1,2 +1,2 @@
-# Brain-Tumor-MRI-Classifier-Using-CNN-Project
+**Brain-Tumor-MRI-Classifier-Using-CNN-Project
 
