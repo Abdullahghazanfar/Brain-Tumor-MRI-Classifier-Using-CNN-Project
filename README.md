@@ -8,7 +8,7 @@ An end-to-end deep learning pipeline that classifies brain tumors from MRI scans
 
 ## Tech Stack
 * **Language:** Python
-* **Libraries:** TensorFlow, Keras, NumPy, Matplotlib
+* **Libraries:** TensorFlow, Keras, NumPy, Matplotlib,Os,sklearn...
 * **Environment:** Google Colab
 * **Data Source:** Kaggle API
 
