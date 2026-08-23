@@ -4,7 +4,7 @@
 An end-to-end deep learning pipeline that classifies brain tumors from MRI scans. This project implements a Convolutional Neural Network (CNN) to assist in automated medical image analysis.
 
 ## Developer
-**Abdullah Ghazanfar** - Python Developer | AI/ML Researcher
+**Abdullah Ghazanfar** - |Applied Machine Learning Engineer|
 
 ## Tech Stack
 * **Language:** Python
