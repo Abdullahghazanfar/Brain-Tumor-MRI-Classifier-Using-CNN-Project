@@ -15,9 +15,6 @@ An end-to-end deep learning pipeline that classifies brain tumors from MRI scans
 ## Dataset
 The model was trained on a Kaggle dataset of MRI scans. It processes the raw image data and utilizes data augmentation techniques to improve model generalization.
 
-## Results & Evaluation
-*(Add a brief summary of your model's accuracy here, or mention the training history and confusion matrix analysis you performed for your academic report.)*
-
 ## How to Run
 1. Clone this repository.
 2. Open the notebook in Google Colab.
